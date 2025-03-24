@@ -14,16 +14,13 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
-  <<< Author notes: Step 2 >>>
+  <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 <body>
 
-here we have header 1
-  # header 1
 
-</body>
 
 <footer>
 
