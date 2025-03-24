@@ -22,7 +22,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
-#  <h1> here we add header 1
+# Here we add Header 1
 <footer>
 
 <!--
